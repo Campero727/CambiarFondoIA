@@ -4,6 +4,6 @@ This is an application that allows us to change the background of the camera, us
 
 ## HOW TO USE
 
-<p style="background-color: red">1.</p> In the Color Background folder we will find the file to change the background for a specific color<br/>
-<p style="background-color: red">2.</p> In the Image Background folder we will find the file to change the background for a specific Image<br/>
-<p style="background-color: red">3.</p> In the Video Background folder we will find the file to change the background for a specific Video<br/>
+1. In the <strong>Color Background folder</strong> we will find the file to change the background for a specific color<br/>
+2. In the <strong>Image Background folder</strong> we will find the file to change the background for a specific Image<br/>
+3. In the <strong>Video Background folder</strong> we will find the file to change the background for a specific Video<br/>
